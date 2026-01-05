@@ -1,0 +1,6 @@
+length = float(input("Enter length of the triangle: "))
+width = float(input("Enter width of the triangle: "))
+
+area = length * width
+
+print("the area of the triangle is: ", area)
